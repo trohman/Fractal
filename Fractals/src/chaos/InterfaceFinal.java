@@ -7,6 +7,10 @@ import java.awt.Dimension;
  *
  * @author Rohman
  */
+
+/*
+ * This is a test note - Hello, Jake
+ */
 public class InterfaceFinal extends javax.swing.JFrame {
 
     /** Creates new form Interface */
